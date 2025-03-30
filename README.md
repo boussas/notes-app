@@ -51,7 +51,7 @@ npm install
 #### 4. Configure environment variables
 Create a `.env` file in the `backend` directory and add:
 ```ini
-PORT=5000
+PORT=8145
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
