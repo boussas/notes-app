@@ -62,7 +62,7 @@ Open two terminals and execute the following:
 **Backend:**
 ```bash
 cd backend
-npm start
+node server
 ```
 
 **Frontend:**
